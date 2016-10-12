@@ -1,4 +1,4 @@
-# C language
+# C-playground
 C言語のちょっとしたテストコードや遊びで作ったコードを公開するためのリポジトリです
 
 ## linking_object_code
